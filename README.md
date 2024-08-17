@@ -1,0 +1,1 @@
+# Hamster-Auto-Clicker
